@@ -1,6 +1,6 @@
 # CodeWars
 
-Solutions for python katas. Currently new at this.
+Soluciones propias de katas realizadas con python. Actualmente empezando...
 
 ---
 
